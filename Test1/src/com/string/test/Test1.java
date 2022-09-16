@@ -18,7 +18,7 @@ public class Test1 {
 				}
 			
 			System.out.println("Number Of Character is :- " + a);
-			
+			System.out.println("End");
 
 		}
 
